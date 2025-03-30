@@ -1,4 +1,4 @@
-# TP4DPBO2025C1
+# TP4DPBO2025C2
 
 Saya Rexy Putra Nur Laksana dengan NIM 2309578 mengerjakan soal TP 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
